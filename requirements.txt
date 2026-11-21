@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+transformers
+torch
+datasets
+evaluate
+scikit-learn
+pandas
+joblib
+accelerate
+huggingface_hub

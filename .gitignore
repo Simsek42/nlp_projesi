@@ -1,0 +1,13 @@
+watsons_bert_model/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.pytest_cache/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.h5
+*.ckpt
